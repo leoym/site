@@ -126,36 +126,33 @@
                         <a href="index.jsp"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
                     </li>
                     <li>
-                        <a href="charts.jsp"><i class="fa fa-fw fa-bar-chart-o"></i> Charts</a>
+                        <a href="graficos.jsp"><i class="fa fa-fw fa-bar-chart-o"></i> Graficos</a>
                     </li>
                     <li>
-                        <a href="tables.jsp"><i class="fa fa-fw fa-table"></i> Tables</a>
+                        <a href="tabelas.jsp"><i class="fa fa-fw fa-table"></i> Tabelas</a>
                     </li>
                     <li>
-                        <a href="forms.jsp"><i class="fa fa-fw fa-edit"></i> Forms</a>
+                        <a href="formularios.jsp"><i class="fa fa-fw fa-edit"></i> Formulários</a>
                     </li>
                     <li>
-                        <a href="bootstrap-elements.jsp"><i class="fa fa-fw fa-desktop"></i> Bootstrap Elements</a>
+                        <a href="elementos.jsp"><i class="fa fa-fw fa-desktop"></i> Bootstrap Elementos</a>
                     </li>
                     <li>
-                        <a href="bootstrap-grid.jsp"><i class="fa fa-fw fa-wrench"></i> Bootstrap Grid</a>
+                        <a href="grids.jsp"><i class="fa fa-fw fa-wrench"></i> Bootstrap Grids</a>
                     </li>
                     <li>
                         <a href="javascript:;" data-toggle="collapse" data-target="#demo"><i class="fa fa-fw fa-arrows-v"></i> Dropdown <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="demo" class="collapse">
                             <li>
-                                <a href="#">Dropdown Item</a>
+                                <a href="demo.jsp">Demo</a>
                             </li>
                             <li>
-                                <a href="#">Dropdown Item</a>
+                                <a href="lab.jsp">Labs</a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="blank-page.jsp"><i class="fa fa-fw fa-file"></i> Blank Page</a>
-                    </li>
-                    <li>
-                        <a href="index-rtl.jsp"><i class="fa fa-fw fa-dashboard"></i> RTL Dashboard</a>
+                        <a href="modelo.jsp"><i class="fa fa-fw fa-file"></i> Modelo</a>
                     </li>
                 </ul>
             </div>
