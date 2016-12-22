@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Menu</title>
+<title>Menu - NS Monitor </title>
 </head>
 <body>
 <!-- Navigation -->
@@ -16,7 +16,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.jsp">NS Monitor <img src="img/banner.png" /> </a>
+                <a class="navbar-brand" href="index.jsp"><img src="img/banner.png" /> </a>
             </div>
             <!-- Top Menu Items -->
             <ul class="nav navbar-right top-nav">
