@@ -10,14 +10,13 @@
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-            	<br />
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.jsp">NS Monitor</a>
+                <a class="navbar-brand" href="index.jsp">NS Monitor <img src="img/banner.png" /> </a>
             </div>
             <!-- Top Menu Items -->
             <ul class="nav navbar-right top-nav">
@@ -122,8 +121,7 @@
             </ul>
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
-            	<br />
-                <ul class="nav navbar-nav side-nav">
+            	<ul class="nav navbar-nav side-nav">
                     <li class="active">
                         <a href="index.jsp"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
                     </li>
